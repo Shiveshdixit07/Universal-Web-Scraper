@@ -1,9 +1,10 @@
+openpyxl==3.1.2
+pandas
 streamlit
 streamlit-tags
-pandas
 selenium
+google-generativeai
 html2text
 beautifulsoup4
 python-dotenv
 pydantic
-google-generativeai
